@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "titulo": "DANVOUY Camiseta de Mujer Casual",
+      "precio": 12.99,
+      "categoría": "prendas de vestir para mujeres",
+      "descripsión": "Camiseta de mujer cómoda y casual."
+    },
+    {
+      "id": 2,
+      "titulo": "Opna Manga Corta Mujer Moisture",
+      "precio": 7.95,
+      "categoría": "prendas de vestir para mujeres",
+      "descripción": "Camiseta de manga corta que absorbe la humedad."
+    },
+    {
+      "id": "3",
+      "titulo": "MBJ Manga Corta Lisa para Mujer",
+      "precio": 9.85,
+      "categoría": "prendas de vestir para mujeres",
+      "descripción": "Top liso de manga corta."
+    },
+    {
+      "id": "4",
+      "titulo": "Chaqueta de lluvia para mujer cortavientos",
+      "precio": 39.99,
+      "categoría": "prendas de vestir para mujeres",
+      "descripción": "Cortavientos ligero e impermeable."
+    },
+    {
+      "id": "5",
+      "titulo": "Sudadera con capucha extraible para mujer",
+      "precio": 29.95,
+      "categoría": "Prendas de vestir para mujer",
+      "descripción": "Camiseta de mujer cómoda y casual."
+    },
+    {
+      "id": "6",
+      "titulo": "BIYLACLESEN Chaqueta de snowboard 3 en 1 para mujer",
+      "precio": 56.99,
+      "categoría": "prendas de vestir para mujeres",
+      "descripción": "Chaqueta de snowboard versatil con tres capas para maxima proteccion."
+    },
+    {
+      "id": "7",
+      "titulo": "Monitor curvo Samsung CHG90 de 49 pulgadas y 144 Hz",
+      "precio": 999.99,
+      "categoría": "electrónica",
+      "descripción": "Monitor de juegos curvo ultra ancho con alta frecuencia de actualización."
+    },
+    {
+      "id": "8",
+      "titulo": "Acer SB220Q bi 21.5 pulgadas Monitor Full HD",
+      "precio": 599.00,
+      "categoría": "electrónica",
+      "descripción": "Monitor Full HD elegante y con estilo." 
+    }
+  ]
+}
